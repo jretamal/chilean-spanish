@@ -1,5 +1,8 @@
 # Chilean Spanish / Español Chileno
 
+![Chile](https://raw.githubusercontent.com/jretamal/chilean-spanish/refs/heads/main/chile.jpg)
+
+
 ![USA](https://flagcdn.com/w20/us.png) This repository contains resources and skill definitions for handling Chilean Spanish idioms and slang.
 
 ![Chile](https://flagcdn.com/w20/cl.png) Este repositorio contiene recursos y definiciones de habilidades para el manejo de modismos y jerga del español de Chile.
